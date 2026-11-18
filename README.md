@@ -23,6 +23,17 @@ All cloud extraction engines execute on minimal **256 MB** serverless containers
 Get a free API token from [Apify Console -> Integrations](https://console.apify.com/settings/integrations), then configure either the **Docker / Python stdio server** in this repository or the hosted `@apify/actors-mcp-server`:
 
 ### Option A: Local Docker MCP Server
+
+With Docker running, clone the repository and build the image locally.
+
+```sh
+git clone https://github.com/kkhomej33-netizen/noctua-b2b-mcp.git
+cd noctua-b2b-mcp
+docker build -t noctua-b2b-mcp .
+```
+
+Then add this configuration to your MCP client.
+
 ```json
 {
   "mcpServers": {
