@@ -1,6 +1,7 @@
 # Noctua B2B Data & GTM MCP Server
 
 [![noctua-b2b-mcp MCP server](https://glama.ai/mcp/servers/kkhomej33-netizen/noctua-b2b-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kkhomej33-netizen/noctua-b2b-mcp)
+[![M8ven Score](https://m8ven.ai/badge/mcp/kkhomej33-netizen-noctua-b2b-mcp-102vhh?v=f165697ca7aa681d53beed96cf5bb98b)](https://m8ven.ai/mcp/kkhomej33-netizen-noctua-b2b-mcp-102vhh?s=readme)
 
 Official Model Context Protocol (MCP) server for **[Noctua Data](https://apify.com/kkhome)** — providing lightweight, browserless B2B intelligence & lead-enrichment tools for **Claude Desktop**, **Cursor**, **Glama**, **Clay**, and **n8n** workflows.
 
